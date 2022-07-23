@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays the bash  PID easy mode
+
+pgrep bash -l
